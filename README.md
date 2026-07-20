@@ -55,7 +55,6 @@ Currently, I'm co-founding **Gatherly**, a fintech platform automating alumni do
 
 * **LinkedIn:** [linkedin.com/in/martin-rodriguez22/](https://linkedin.com/in/martin-rodriguez22/)
 * **Email:** [themartingrodriguez@gmail.com](mailto:themartingrodriguez@gmail.com)
-* **Location:** Austin, TX 🤠
 
 ***
 
