@@ -1,4 +1,4 @@
-# Hi, I'm Martin Rodriguez! 👋
+# Hey y'all, I'm Martin Rodriguez! 👋
 
 ### 🚀 Co-Founder at Gatherly | Full-Stack Developer | Data Analyst
 
