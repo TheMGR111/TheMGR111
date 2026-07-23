@@ -1,6 +1,6 @@
 # Hey y'all, I'm Martin Rodriguez! 👋
 
-### 🚀 Co-Founder at Gatherly | Full-Stack Developer | Product Manager | Tech Fanatic
+### 🚀 Co-Founder at Gatherly | Product Manager | Tech Fanatic
 
 I am a Management Information Systems graduate from the McCombs School of Business at the University of Texas at Austin, with a minor in Finance and a Certificate in Computer Science. I specialize in building scalable web and mobile applications, optimizing data pipelines, and leveraging AI technologies to solve complex problems. 
 
